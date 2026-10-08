@@ -57,7 +57,7 @@ export default function Contact() {
             <li><span className="coral-text"><Phone /></span><a href="tel:+917020213238">+91 70202 13238</a></li>
             <li>
               <span className="coral-text"><Linkedin /></span>
-              <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/atharv-jamdade-13220341b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer">
                 LinkedIn <span className="coral-text sm-arrow"><ArrowUR /></span>
               </a>
             </li>
